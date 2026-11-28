@@ -1,6 +1,6 @@
 {
   "name": "fixed-point-arithmetic-kit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Fixed-point arithmetic with saturation for add, subtract, multiply, and divide.",
   "type": "module",
   "main": "src/index.js",
